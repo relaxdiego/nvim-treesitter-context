@@ -33,3 +33,5 @@
   communication: (_)
   (_) @context.end
 ) @context
+
+(call_expression) @context
